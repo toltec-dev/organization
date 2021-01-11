@@ -5,4 +5,4 @@ For recent discussion on the matter of this new format, see https://github.com/t
 
 Current status: **Discussing Potential Solutions**
 
-See the [minutes from 2020-01-11](/discussion-2020-01-11.md) for the current status of discussions. Input is gladly taken either by raising an issue on this repository, or via the discord.
+See the [minutes from 2020-01-11](/meetings/discussion-2020-01-11.md) for the current status of discussions. Input is gladly taken either by raising an issue on this repository, or via the discord.

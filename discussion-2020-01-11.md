@@ -11,9 +11,9 @@
 
 ## Participants
 
+* [@dixonary](https://github.com/dixonary) ([Draft](https://github.com/dixonary/draft-reMarkable) launcher and .draft format author).
 * [@Eeems](https://github.com/Eeems) ([Oxide](https://github.com/Eeems/oxide) author).
 * [@LinusCDE](https://github.com/LinusCDE) ([Toltec](https://github.com/toltec-dev/toltec) maintainer).
-* [@dixonary](https://github.com/dixonary) ([Draft](https://github.com/dixonary/draft-reMarkable) launcher and .draft format author).
 * [@matteodelabre](https://github.com/matteodelabre) ([Toltec](https://github.com/toltec-dev/toltec) maintainer).
 * [@raisjn](https://github.com/raisjn) ([remux](https://rmkit.dev/apps/remux) author).
 

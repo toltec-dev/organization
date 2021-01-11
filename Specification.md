@@ -1,7 +1,7 @@
 Application Registration Specification
 ============================================
 
-Application registration files are used to indicate that an application is installed on the system. This then allows third party launchers and applications to be aware of how to launch other applications. It's meant to facilitate package managers adding and removing applications and automatically reloading third party launchers. These files must have a file extension of `remarkable` and must be located in `/opt/usr/share/applications`.
+Application registration files are used to indicate that an application is installed on the system. This then allows third party launchers and applications to be aware of how to launch other applications. It's meant to facilitate package managers adding and removing applications and automatically reloading third party launchers. These files must have a file extension of `rmapp` and must be located in `/opt/usr/share/applications`.
 
 ## Draft Sample
 ```ini

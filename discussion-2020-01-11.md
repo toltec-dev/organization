@@ -1,13 +1,27 @@
-# Discussion about app file format (2020-01-11)
+<table>
+<tr>
+    <th>Date and time</th>
+    <td>2020-01-11T15:00Z</td>
+</tr>
+<tr>
+    <th>Topic</th>
+    <td>Initial discussion about a new shared application registration format</td>
+</tr>
+</table>
+
+## Participants
+
+* @Eeems ([Oxide](https://github.com/Eeems/oxide) author).
+* @LinusCDE ([Toltec](https://github.com/toltec-dev/toltec) maintainer).
+* @dixonary ([Draft](https://github.com/dixonary/draft-reMarkable) launcher and .draft format author).
+* @matteodelabre ([Toltec](https://github.com/toltec-dev/toltec) maintainer).
+* @raisjn ([remux](https://rmkit.dev/apps/remux) author).
+
+## Summary
 
 We had a high-level discussion about a new application file format. The .draft format is no longer suitable for the more advanced behaviour that we would want to support.
 
 It would be ideal to have a new format ASAP.
-
-launcher tech:
-.draft, draft - dixonary
-oxide - eeems
-remux - okeh
 
 ## Background
 
@@ -81,11 +95,20 @@ Q: will we need .draft and .oxide (or whatever) files forever?
 ### Supported program locations
 
 Current
-- /etc/draft
-- /opt/etc/draft
-- $HOME/.config/draft
-- /opt/usr/share/applications
+- `/etc/draft`
+- `/opt/etc/draft`
+- `$HOME/.config/draft`
+- `/opt/usr/share/applications`
 
 New
-- /usr/share/applications
-- $HOME/.local/share/applications
+- `/usr/share/applications`
+- `$HOME/.local/share/applications`
+
+## Decision process
+
+* The future standard should be unanimously approved by all current launcher devs (i.e. @Eeems, @dixonary, and @raisjn).
+* Other parties also can share their proposals and opinions on the standard.
+
+## Next meeting
+
+* 2020-01-15T15:00Z

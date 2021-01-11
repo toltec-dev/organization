@@ -11,11 +11,11 @@
 
 ## Participants
 
-* @Eeems ([Oxide](https://github.com/Eeems/oxide) author).
-* @LinusCDE ([Toltec](https://github.com/toltec-dev/toltec) maintainer).
-* @dixonary ([Draft](https://github.com/dixonary/draft-reMarkable) launcher and .draft format author).
-* @matteodelabre ([Toltec](https://github.com/toltec-dev/toltec) maintainer).
-* @raisjn ([remux](https://rmkit.dev/apps/remux) author).
+* [@Eeems](https://github.com/Eeems) ([Oxide](https://github.com/Eeems/oxide) author).
+* [@LinusCDE](https://github.com/LinusCDE) ([Toltec](https://github.com/toltec-dev/toltec) maintainer).
+* [@dixonary](https://github.com/dixonary) ([Draft](https://github.com/dixonary/draft-reMarkable) launcher and .draft format author).
+* [@matteodelabre](https://github.com/matteodelabre) ([Toltec](https://github.com/toltec-dev/toltec) maintainer).
+* [@raisjn](https://github.com/raisjn) ([remux](https://rmkit.dev/apps/remux) author).
 
 ## Summary
 
@@ -106,7 +106,7 @@ New
 
 ## Decision process
 
-* The future standard should be unanimously approved by all current launcher devs (i.e. @Eeems, @dixonary, and @raisjn).
+* The future standard should be unanimously approved by all current launcher devs (i.e. [@Eeems](https://github.com/Eeems), [@dixonary](https://github.com/dixonary), and [@raisjn](https://github.com/raisjn)).
 * Other parties also can share their proposals and opinions on the standard.
 
 ## Next meeting

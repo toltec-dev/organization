@@ -39,10 +39,14 @@
 
 # Old Business
 
+- Select format for files
+- Supported program locations
+
 # New Business
 
 - Increasing the bus factor
     - Grant some/all maintainers the admin role in the org
+- Review standard proposals
 
 # Descision log
 

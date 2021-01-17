@@ -35,6 +35,8 @@ No regrets.
     - January 28 @ 3 PM UTC
     - Allow for smaller meetings in the meantime
     - Wait until the meeting w/ everyone to make decisions
+- Confirm meeting notes from previous meeting
+    - Ensure that PR for meeting notes has been approved and merged
 - Determine Toltec release date
     - Important issues: device-incompatible packages, code of conduct & security
     - Target date: February 15

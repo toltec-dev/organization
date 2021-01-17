@@ -35,6 +35,11 @@
 # Standing Items
 
 - Determine next meeting date
+- Confirm meeting notes from previous meeting
+    - Ensure that PR for meeting notes has been approved and merged
+- Determine if Toltec target release date should be moved
+    - Important issues: device-incompatible packages, code of conduct & security
+    - Target date: February 15
 - Call for new business
 
 # Old Business

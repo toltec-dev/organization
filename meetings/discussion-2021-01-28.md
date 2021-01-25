@@ -52,6 +52,9 @@
 - Increasing the bus factor
     - Grant some/all maintainers the admin role in the org
 - Review standard proposals
+- Criterion for sign off on testing branch PRs
+- Stable Merge Process
+    - if a package holds up merge, what do we do with it?
 
 # Descision log
 

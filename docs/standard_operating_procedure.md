@@ -1,8 +1,10 @@
 # Standard Operating Procedure
 
-## Adding or Removing Members from the Organisation
+## Decision Making process
 
 
 
-## Making Binding Decisions
+## Adding or Removing Members from the GitHub Organization
+
+
 

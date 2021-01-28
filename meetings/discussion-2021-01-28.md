@@ -28,8 +28,8 @@
 
 ## Regrets
 
-| Name | Information |
-| ---- | ----------- |
+| Name                                               | Information                                                                             |
+| -------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | [@dixonary](https://github.com/dixonary)           | [Draft](https://github.com/dixonary/draft-reMarkable) launcher and .draft format author |
 
 # Standing Items

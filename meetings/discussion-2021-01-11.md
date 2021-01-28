@@ -1,11 +1,15 @@
 <table>
 <tr>
     <th>Date and time</th>
-    <td>2020-01-11T15:00Z</td>
+    <td>2021-01-11T15:00Z</td>
 </tr>
 <tr>
     <th>Topic</th>
     <td>Initial discussion about a new shared application registration format</td>
+</tr>
+<tr>
+    <th>Next Meeting</th>
+    <td>2021-01-15T15:00Z</td>
 </tr>
 </table>
 
@@ -108,7 +112,3 @@ New
 
 * The future standard should be unanimously approved by all current launcher devs (i.e. [@Eeems](https://github.com/Eeems), [@dixonary](https://github.com/dixonary), and [@raisjn](https://github.com/raisjn)).
 * Other parties also can share their proposals and opinions on the standard.
-
-## Next meeting
-
-* 2020-01-15T15:00Z

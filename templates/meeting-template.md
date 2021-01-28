@@ -1,13 +1,16 @@
 <table>
 <tr>
     <th>Date and time</th>
-    <td>2020-01-11T15:00Z</td>
+    <td>2021-01-11T15:00Z</td>
 </tr>
 <tr>
     <th>Topic</th>
     <td>Initial discussion about a new shared application registration format</td>
 </tr>
-    <tr><th>Next Meeting</th><td>2020-01-15T15:00Z</td></tr>
+<tr>
+    <th>Next Meeting</th>
+    <td>2021-01-15T15:00Z</td>
+</tr>
 </table>
 
 
@@ -50,10 +53,10 @@
 - New Item 2
   - Notes...
 
-# Descision log
+# Decision log
 
-| Description             | Decision               | Notes                              |
-| ----------------------- | ---------------------- | ---------------------------------- |
-| Description of decision | Decision made by group | Extra notes (e.g. Eeems abstained) |
-|                         |                        |                                    |
+| Description             | Decision               |
+| ----------------------- | ---------------------- |
+| Description of decision | Decision made by group |
+|                         |                        |
 

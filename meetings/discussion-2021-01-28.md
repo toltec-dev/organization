@@ -9,7 +9,7 @@
 </tr>
 <tr>
     <th>Next Meeting</th>
-    <td>?</td>
+    <td>2021-02-12T15:00Z</td>
 </tr>
 </table>
 
@@ -35,7 +35,7 @@
 # Standing Items
 
 - Determine next meeting date
-    - To be determined offline
+    - February 12ᵗʰ, same time
 - Confirm meeting notes from previous meeting
     - OK
 - Determine if Toltec target release date should be moved

@@ -23,7 +23,7 @@
 | [@Eeems](https://github.com/Eeems)                 | [Oxide](https://github.com/Eeems/oxide) author and [Toltec](https://github.com/toltec-dev/toltec) maintainer |
 | [@LinusCDE](https://github.com/LinusCDE)           | [Toltec](https://github.com/toltec-dev/toltec) maintainer                                                    |
 | [@matteodelabre](https://github.com/matteodelabre) | [Toltec](https://github.com/toltec-dev/toltec) maintainer                                                    |
-| [@raisjn](https://github.com/raisjn)               | [remux](https://rmkit.dev/apps/remux) author and [Toltec](https://github.com/toltec-dev/toltec) maintainer   |
+| [@raisjn](https://github.com/raisjn)               | [Toltec](https://github.com/toltec-dev/toltec) maintainer   |
 | [@dixonary](https://github.com/dixonary)           | [Draft](https://github.com/dixonary/draft-reMarkable) launcher and .draft format author                      |
 | [@danshick](https://github.com/danshick)           | [Toltec](https://github.com/toltec-dev/toltec) contributor                                                   |
 
@@ -52,7 +52,7 @@
 
 # New Business
 
-- 
+- adding new members (danshick, ???)
 
 # Decision log
 

@@ -53,6 +53,7 @@
 # New Business
 
 - adding new members (danshick, ???)
+- settle outstanding app specification questions: filename and format
 
 # Decision log
 

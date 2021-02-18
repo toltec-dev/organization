@@ -18,6 +18,7 @@
 | [@dixonary](https://github.com/dixonary)           | [Draft](https://github.com/dixonary/draft-reMarkable) launcher and .draft format author |
 | [@Eeems](https://github.com/Eeems)                 | [Oxide](https://github.com/Eeems/oxide) author and [Toltec](https://github.com/toltec-dev/toltec) maintainer |
 | [@danshick](https://github.com/danshick)           | [Toltec](https://github.com/toltec-dev/toltec) contributor                                                   |
+| [@raisjn](https://github.com/raisjn)               | [remux](https://rmkit.dev/apps/remux) author and [Toltec](https://github.com/toltec-dev/toltec) maintainer |
 
 - Current proposals
     - XDG
@@ -82,4 +83,3 @@ Environments= (specifies key-value pairs to be introduced to the environment of 
 ```
 
 Expected behaviour if a required key is absent: Log an error, ignore the file.
-

@@ -71,7 +71,7 @@ No regrets.
         - [@Eeems](https://github.com/Eeems)
         - [@danshick](https://github.com/danshick)
         - [@raisjn](https://github.com/raisjn)
-    - Date: **To be determined later today**
+    - Date: 2021-02-18T15:00Z
 - Criterion for sign off on testing branch PRs
     - What’s the _testing/stable_ model?
         - What level of QA?

@@ -6,3 +6,4 @@
 - [@LinusCDE](https://github.com/LinusCDE)
 - [@danshick](https://github.com/danshick)
 - [@bkirwi](https://github.com/bkirwi)
+- [@Jayy001](https://github.com/Jayy001)

@@ -4,6 +4,5 @@
 - [@raisjn](https://github.com/raisjn)
 - [@Eeems](https://github.com/Eeems)
 - [@LinusCDE](https://github.com/LinusCDE)
-- [@dixonary](https://github.com/dixonary)
 - [@danshick](https://github.com/danshick)
 - [@bkirwi](https://github.com/bkirwi)
